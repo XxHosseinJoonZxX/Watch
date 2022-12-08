@@ -6,5 +6,5 @@ Download ZIP And Open With WinRAR
 OR
 Copy Source [ main.py ] And Paste In Your IDE ( App Editor Example : VisualStudioCode , PyCharm And More )
 
-Thanks For Using
+Thanks For Using ! 
 Github => XxHosseinJoonZxX
